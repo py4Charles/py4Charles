@@ -11,6 +11,7 @@ LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
 ![Python](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232A.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=plastic&logo=express&logoColor=white)
