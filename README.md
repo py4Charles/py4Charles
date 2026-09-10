@@ -1,9 +1,7 @@
 ## Glad you found me😄, Charles here.
 Building tech solutions can be very satisfying and I want to be good at it.
 
-[![WakaTime](https://wakatime.com/badge/user/smallJs.svg)](https://wakatime.com/@smallJs)
-
-![](https://komarev.com/ghpvc/?username=py4Charles)
+[![WakaTime](https://wakatime.com/badge/user/smallJs.svg)](https://wakatime.com/@smallJs)                                   ![](https://komarev.com/ghpvc/?username=py4Charles)
 
 [![Ashutosh's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=py4Charles&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
