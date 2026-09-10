@@ -40,3 +40,7 @@ LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
   <img src="https://github-readme-stats.vercel.app/api?username=py4Charles&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=py4Charles&layout=donut&theme=dark" width="48%" />
 </p>
+
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=py4Charles&show_icons=true&theme=dark)
