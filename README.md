@@ -33,3 +33,10 @@ LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=py4Charles&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=py4Charles&layout=donut&theme=dark" width="48%" />
+</p>
