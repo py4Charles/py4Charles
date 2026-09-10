@@ -1,4 +1,4 @@
-## Glad you found me😄, Charles here. ![Charles](https://img.shields.io/badge/enjoy-15D8B3.svg?style=plastic&logo=LOGO_SLUG&logoColor=15D8B3)
+## Glad you found me😄, Charles here.
 Building tech solutions can be very satisfying and I want to be good at it.
 
 [![Ashutosh's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=py4Charles&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
