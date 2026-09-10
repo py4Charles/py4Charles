@@ -44,3 +44,7 @@ LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=py4Charles&show_icons=true&theme=dark)
+
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=py4Charles&show_icons=true&theme=dark)
