@@ -1,11 +1,12 @@
-## Glad you found me😄, Charles here.
+## Glad you found me 😄, Charles here.
 Building tech solutions can be very satisfying and I want to be good at it.
 
-[![WakaTime](https://wakatime.com/badge/user/smallJs.svg)](https://wakatime.com/@smallJs)                                   ![](https://komarev.com/ghpvc/?username=py4Charles)
+[![WakaTime](https://wakatime.com/badge/user/py4Charles.svg)](https://wakatime.com/@py4Charles)
+![Profile Views](https://komarev.com/ghpvc/?username=py4Charles)
 
 [![Ashutosh's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=py4Charles&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
+### LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -36,17 +37,7 @@ LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=py4Charles&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=py4Charles&layout=donut&theme=dark" width="48%" />
 </p>
-
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=py4Charles&show_icons=true&theme=dark)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=py4Charles&layout=donut&theme=dark)
