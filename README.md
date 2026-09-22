@@ -1,20 +1,28 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650" alt="Header Animation">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Python%20Developer&fontSize=50&animation=twinkling" width="100%" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B%20New%20friends%20are%20always%20welcome!%3B%F0%9F%9A%80%20Let's%20build%20something%20amazing%20together!%3B%F0%9F%92%BB%20Open%20to%20collaboration%20and%20new%20ideas!%3B%F0%9F%8C%9F%20Thanks%20for%20visiting%20my%20profile!" alt="Typing SVG" />
+</p>
 
-# 🕵️‍♂️ Charles David
+</div>
+
+# 🌙 Late night coding? Hi, I'm Charles Kwame
 
 **Backend Software Engineer & AI Systems Builder** | Python · Node.js · FastAPI
 
-<a href="https://github.com/py4Charles">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=D8A2A2&center=true&vCenter=true&width=650&lines=Engineering+efficient+readable-friendly+code🥸;Adapting+AI+%26+yielding+10x+the+results👍;Python+to+maximize+developer+velocity🏃‍♂️;Following+only+the+best+engineering+practices👌;Ready+to+deploy%2C+always+learning🤖" alt="Typing SVG" />
-</a>
+*👋 About Me*
 
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com) -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/py4Charles)
+- 🔭 I'm currently working on **amazing projects**
+- 🌱 I'm currently learning **cutting-edge technologies**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **anything tech-related**
+- ⚡ Fun fact: **I love turning coffee into code!** ☕
+- 🎯 Always coding with passion and purpose!
 
-<br>
+## ⏰ Development Activity
+<div align="center">
 
 ![Freelance](https://img.shields.io/badge/💼_Freelance-Available-success?style=for-the-badge&labelColor=006400)
 ![Collaborations](https://img.shields.io/badge/🤝_Collaborations-Open-FF8C00?style=for-the-badge&labelColor=8B4000)
@@ -24,87 +32,25 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 🧭 Quick Navigation
-
-[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=py4Charles&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=py4Charles&theme=tokyonight&hide_border=true" width="48%" />
-
 <br>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=py4Charles&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 👋 About Me
-
-```typescript
-const py4-C: Developer = {
-  name:     "Charles Appiah",
-  role:     "Backend Software Engineer & AI Systems Builder",
-  location: "🌑Moon  ·  Open to Remote",
-
-  focus: [
-    "🧠 Following only the best engineering practices",
-    "💪 Adapting AI, to amplify the raw potential for coding",
-    "🥽 Building anything I find challenging",
-    "🦀 Maximizing my code knowledge in most languages",
-    "🔐 Locked in fr",
-  ],
-
-  stack: {
-    languages: ["JavaScript", "Python", "C++", "Go", "React", "Java"],
-    backend:   ["Node.js/Express", "FastAPI", "Flask", "Spring"],
-    database:  ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
-    devOps:    ["Docker", "GitHub Actions"],
-  },
-
-  learning:  ["Frontend with React", "AI engineering", "Web3"],
-  principle: "Simple · Tested · Secure · Always improving",
-};
-```
+## ⚙️ What I Do
 
 <div align="center">
 
-```bash
-npx py4Charles  # Coming soon: CLI tool to showcase my work!
-```
+💻 Full-stack developer who enjoys creating innovative solutions. Always learning and contributing to open source projects.
 
 </div>
 
----
+<br>
+<br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
-</div>
-
-## 🛠️ Tech Stack
+## ⚙️ Complete Tech Arsenal
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,go,rust,cs,react,nodejs,fastapi,dotnet,postgres,mongodb,docker,linux,pytorch,tensorflow&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,go,rust,cs,react,nodejs,fastapi,dotnet,postgres,mongodb,docker,git,vscode,pytorch,tensorflow&theme=dark&perline=8" />
 </a>
 
 <br><br>
@@ -133,24 +79,60 @@ npx py4Charles  # Coming soon: CLI tool to showcase my work!
 
 </div>
 
----
+### 📊 Skill Level Breakdown
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+
+| 💻 **Language** | ⭐ **Level** | 📈 **Progress** | 🎯 **Usage** |
+|-----------------|--------------|-----------------|------------------|
+| **JavaScript** 🟨 | 🌟 Expert | `████████████` | Daily |
+| **CSS** 🎨 | 🔥 Advanced | `█████████▒▒▒` | Frequent |
+| **PLpgSQL** 💻 | ⚡ Intermediate | `███████▒▒▒▒▒` | Often |
+| **HTML** 🌐 | 🌟 Expert | `████████████` | Sometimes |
+| **Python** 🐍 | ⚡ Intermediate | `███████▒▒▒▒▒` | Exploring |
+
 </div>
 
-## 🚀 Featured Projects
+## ⚡ GitHub Streaks & Achievements
 
-<!-- ─────────────────────────────────────────────────────────────────
-     HOW TO ADD A PROJECT:
-     Copy any row from the relevant table below, fill in:
-       - Name (bold, with emoji)
-       - One-line description
-       - Tech badges  →  ![Name](https://img.shields.io/badge/-Name-HEX?style=flat-square&logo=LOGO&logoColor=white)
-       - Live Demo    →  [Visit](URL)  or  —
-       - Source Code  →  [Repo](URL)  or  🔒 Private
-     Keep one row per project. Column order must match the header.
-───────────────────────────────────────────────────────────────── -->
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=py4Charles&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=py4Charles&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=py4Charles&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+## 📊 GitHub Metrics Dashboard
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=py4Charles&theme=dark)
+
+</div>
+
+## 🐍 Snake eating contributions
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+<summary>🔧 How to add YOUR Snake Animation</summary>
+
+1. Create a repository with the same name as your username (py4Charles)
+2. Add the GitHub Action from: https://github.com/Platane/snk
+3. The snake animation will be generated automatically with your contributions!
+4. After setup, regenerate your README to see your personal snake!
+
+</details>
+
+## 📦 Featured Projects
 
 ### ⭐ Adwuma
 
@@ -181,8 +163,8 @@ market value or a customer ready to purchase a service.
 
 <div align="center">
 
-<a href="https://github.com/py4Charles/Healzy-project.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charlesrepo=Healzy-project&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/py4Charles/eventina_campus.git">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charles&repo=eventina_campus&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/py4Charles/2chat-app.git">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charles&repo=2chat-app&theme=tokyonight&hide_border=true" width="48%" />
@@ -194,69 +176,17 @@ market value or a customer ready to purchase a service.
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charles&repo=advanced_api_backend&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
-</div>
-
----
-
-## 🌟 Skills & Interests
+<br><br>
 
 </div>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎯 Currently Focused On</h3>
-      - 🔭 Building <strong>technological solutions</strong><br>
-      - 🎙️ Deepening <strong>connections</strong> with other developers<br>
-      - 🌱 Mastering <strong>Advanced ML & Deep Learning</strong><br>
-      - 👯 Open to <strong>Open Source contributions</strong><br>
-      - 🤝 Seeking <strong>collaboration opportunities</strong><br>
-      - 🚀 Exploring <strong>Cloud Architecture & DevOps</strong><br>
-      - 🖥️ Learning <strong>Frontend frameworks</strong>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎨 Beyond Tech</h3>
-      - 🌍 <strong>Geography</strong> - Exploring world cultures<br>
-      - 🧬 <strong>Biology</strong> - Understanding life sciences<br>
-      - ⚗️ <strong>Chemistry</strong> - Molecular interactions<br>
-      - ⚽ <strong>Football</strong> - Strategy & analytics<br>
-      - 📺 <strong>TV Series</strong> - Science-Fiction<br>
-      - 🧠 <strong>Neuroscience</strong> - Brain functions
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎓 Always Learning</h3>
-      - 📚 Reading technical books<br>
-      - 🎯 Taking online courses<br>
-      - 🏗️ Building side projects<br>
-      - 🤝 Contributing to open source<br>
-      - 📝 Writing technical blogs<br>
-      - 🎤 Sharing knowledge<br>
-      - 🌱 Growing every day
-    </td>
-  </tr>
-</table>
 
 <div align="center">
-  <em>*These diverse interests fuel my creativity and bring unique perspectives to problem-solving!*</em>
-</div>
 
----
-<div align="center">
-### 🌟 *"The best code is written with passion, refined with discipline, and shared with generosity."*
+**Programming isn't about what you know; it's about what you can figure out.** ✨
 
-<br>
+⭐ **From [py4Charles](https://github.com/py4Charles) with 💝**
 
-### 🤝 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliheydari1381doc@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/py4Charles)
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75" />
-
-**⭐️ From [py4Charles](https://github.com/py4Charles) — Made with 💙 in Markdown**
-
-<img src="https://komarev.com/ghpvc/?username=py4Charles&label=Profile%20Views&color=9333EA&style=flat-square" />
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=50&fontColor=fff&animation=fadeIn)
 
 </div>
