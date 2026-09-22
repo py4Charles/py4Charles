@@ -181,8 +181,8 @@ market value or a customer ready to purchase a service.
 
 <div align="center">
 
-<a href="https://github.com/py4Charles/cdnb-solo-build.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charlesrepo=cdnb-solo-build&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/py4Charles/Healzy-project.git">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charlesrepo=Healzy-project&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/py4Charles/2chat-app.git">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charles&repo=2chat-app&theme=tokyonight&hide_border=true" width="48%" />
