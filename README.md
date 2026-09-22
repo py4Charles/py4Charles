@@ -50,23 +50,6 @@
 <br>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=py4Charles&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=py4Charles&theme=tokyo-night&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=py4Charles&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
-
-</div>
-
----
-
-## ⭐ Repository Stars
-
-<div align="center">
-
-<img src="https://img.shields.io/github/stars/py4Charles?label=Total%20Stars&style=for-the-badge&color=FFD700&labelColor=FFA500" />
-
-</div>
 
 ---
 
@@ -199,16 +182,16 @@ market value or a customer ready to purchase a service.
 <div align="center">
 
 <a href="https://github.com/py4Charles/cdnb-solo-build.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=Simulation&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charlesrepo=cdnb-solo-build&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/py4Charles/2chat-app.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=ai-runtime-lab&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charles&repo=2chat-app&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/py4Charles/arduino-store.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=audio-ai-field-guide&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charles&repo=arduino-store&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/py4Charles/advanced_api_backend.git">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Ali-hey-0&repo=forecast-fusion&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=py4Charles&repo=advanced_api_backend&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 </div>
@@ -224,7 +207,7 @@ market value or a customer ready to purchase a service.
     <td width="33%" valign="top">
       <h3>🎯 Currently Focused On</h3>
       - 🔭 Building <strong>technological solutions</strong><br>
-      - 🎙️ Deepening <strong></strong><br>
+      - 🎙️ Deepening <strong>connections</strong> with other developers<br>
       - 🌱 Mastering <strong>Advanced ML & Deep Learning</strong><br>
       - 👯 Open to <strong>Open Source contributions</strong><br>
       - 🤝 Seeking <strong>collaboration opportunities</strong><br>
