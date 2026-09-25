@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650" alt="Header Animation">
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B%20New%20friends%20are%20always%20welcome!%3B%F0%9F%9A%80%20Let's%20build%20something%20amazing%20together!%3B%F0%9F%92%BB%20Open%20to%20collaboration%20and%20new%20ideas!%3B%F0%9F%8C%9F%20Thanks%20for%20visiting%20my%20profile!" alt="Typing SVG" />
 </p>
